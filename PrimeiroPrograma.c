@@ -1,7 +1,8 @@
 #include <stdio.h>
-
-int main()
+ 
+int main(void)
 {
-printf("xd?");
-return 0;
+	printf ("Programa basico?\n");
+	
+	return(0);
 }
